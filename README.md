@@ -1,1 +1,1 @@
-# Masterschool-Data Analysis_Projects
+# Masterschool-Data_Analysis-Projects
