@@ -8,3 +8,5 @@ During this project, you will conduct three Tasks:
 1.  Complete your own data analysis and create a presentation to share your findings.
 2.  Develop a dashboard for a Profit and Loss Statement.
 3.  Create a Financial Forecasting Model using three scenarios.
+
+   https://docs.google.com/spreadsheets/d/1VBWSPlQ5V_hH0GYbGli7T3v4pNI-KRN0OWTLgVdI5-c/edit?usp=sharing
