@@ -1,4 +1,5 @@
-# DA101-The-NYSE-Dataset-Analysis using Google Sheets
+# DA101-The-NYSE-Dataset-Analysis using Google Sheets  ![image](https://github.com/SOMPODDA/DA101-The-New-York-Stock-Exchange-Dataset_Masterschool_Project_I/assets/70188796/1e221f58-ca7d-4da9-928b-b4f46e962d85)
+
 
 
 In this project, you will analyze real-life data from the New York Stock Exchange. You will be drawing a subset of a large dataset provided by Kaggle that contains historical financial data from S&P 500 companies. 
