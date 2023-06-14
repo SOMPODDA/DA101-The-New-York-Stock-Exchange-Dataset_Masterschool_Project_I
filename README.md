@@ -1,4 +1,4 @@
-# DA101-The-NYSE-Dataset-Analysis using Google Sheets  ![image](https://github.com/SOMPODDA/DA101-The-New-York-Stock-Exchange-Dataset_Masterschool_Project_I/assets/70188796/1e221f58-ca7d-4da9-928b-b4f46e962d85)
+# DA101-The-NYSE-Dataset-Analysis-Google_Sheets  ![image](https://github.com/SOMPODDA/DA101-The-New-York-Stock-Exchange-Dataset_Masterschool_Project_I/assets/70188796/1e221f58-ca7d-4da9-928b-b4f46e962d85)
 
 
 
