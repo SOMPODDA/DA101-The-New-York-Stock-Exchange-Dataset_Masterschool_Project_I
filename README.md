@@ -15,6 +15,11 @@ During this project, you will conduct three Tasks:
            https://docs.google.com/spreadsheets/d/1VBWSPlQ5V_hH0GYbGli7T3v4pNI-KRN0OWTLgVdI5-c/edit?usp=sharing
 
 
+
+       ![image](https://github.com/SOMPODDA/DA101-The-New-York-Stock-Exchange-Dataset_Masterschool_Project_I/assets/70188796/a7fb8c85-c4ba-476e-aac5-aa62f4a58b85)
+ 
+
+
 Learning Outcomes:
 
 1. Compute and interpret the measures of center
