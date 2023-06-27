@@ -30,3 +30,6 @@ Learning Outcomes:
 5. Analyze data using various functions and pivot tables in spreadsheet tools
 6. Create financial forecasting models and reports
 7. Use various data visualizations to tell a story as a data analyst
+
+   ![image](https://github.com/SOMPODDA/DA101-The-New-York-Stock-Exchange-Dataset_Masterschool_Project_I/assets/70188796/ad9c07db-d0d2-41ff-802b-400ccdce6c54)
+
